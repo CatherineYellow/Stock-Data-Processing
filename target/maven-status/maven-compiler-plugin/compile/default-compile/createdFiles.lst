@@ -1,0 +1,5 @@
+driver/StockAnalysisDriver.class
+driver/StockAnalysisDriver$1.class
+mapper/MultipleInputMapper1.class
+reducer/StockAnalysisReducer.class
+mapper/MultipleInputMapper2.class
